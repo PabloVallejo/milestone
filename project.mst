@@ -1,0 +1,13 @@
+
+@ProjectName
+#keyword
+
+Lorem ipsum dolor sit amet consectetur 
+------------------------ 
+
+#LI-204 - `Add model field`
+#LI-214 - `Remove print statements`
+#LI-254 - "Revise comments"
+#LI-224 - 'Add validation'
+#LI-264 - 'Correct pep8 violations'
+#LI-234 - 'Add doc strings'
